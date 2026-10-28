@@ -1,0 +1,23 @@
+# Geschuetzte Basisdomains, die im generierten Filter NIE gesperrt werden.
+# Keine pauschale Freigabe fuer Subdomains. Bei Fehlalarmen hier einzelne Domains eintragen.
+fritz.box
+myfritz.net
+amazon.de
+amazon.com
+primevideo.com
+disneyplus.com
+bamgrid.com
+youtube.com
+googlevideo.com
+google.com
+github.com
+raw.githubusercontent.com
+microsoft.com
+apple.com
+paypal.com
+netflix.com
+spotify.com
+cloudflare.com
+facebook.com
+instagram.com
+whatsapp.com
