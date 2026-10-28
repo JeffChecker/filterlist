@@ -1,17 +1,12 @@
 # FRITZ!Box DNS-Filter: Werbung, Tracking und uebliche Schadsoftware
-# Beibehaltener Dateiname / URL fuer bestehende FRITZ!Box Abonnements
-# Stand: 2026-10-28
-# Format: reine DNS-Domains, eine Domain pro Zeile; FRITZ!OS 8.40/8.50
-# Quellen: HaGeZi Multi Light (GPL-3.0) und OISD Small (GPL-3.0)
+# Dateiname und RAW-URL bleiben dauerhaft unveraendert.
+# Format: reine Domains, eine Domain pro Zeile (FRITZ!OS 8.40/8.50)
+# Quellen: HaGeZi Multi Light und OISD Small (beide GPL-3.0)
 # https://github.com/hagezi/dns-blocklists
-# https://oisd.nl/
 # https://github.com/sjhgvr/oisd
-# Ergaenzungen: handverlesene Amazon-, Disney- und Google-Werbedomains
-# Dubletten und problematische Syntax entfernt; wichtige Dienst-Rootdomains geschont.
-# Kein Blockieren von Social Media, Erotik, Shopping, VPN oder Affiliate-Links als Kategorie.
-# DNS-Filter blockieren Werbung im Videostream von Prime Video, Disney+ oder YouTube nicht zuverlaessig.
-# Lizenz der abgeleiteten Gesamtliste: GPL-3.0. Siehe LICENSE im Repository.
-# Autoaktualisierung: GitHub Actions; bei GitHub-URL-Import FRITZ!Box Filterliste neu laden.
+# Nur Werbung/Tracking und allgemeine Risiken, kein Jugendschutz-/Social-/Shopping-Blocker.
+# DNS kann Prime Video-, Disney+- und YouTube-Videowerbung nicht sicher entfernen.
+# Lizenz: GPL-3.0. Ausnahmen und eigene Eintraege siehe Repository.
 # Domains: 117734
 #
 0-02.net
