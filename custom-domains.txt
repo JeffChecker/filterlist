@@ -1,0 +1,24 @@
+# Zusaetzliche, gezielte Werbe- und Tracking-Domains. Eine Domain je Zeile.
+# Diese Domains bleiben bei automatischen Updates erhalten.
+# Werbung direkt im Streamingvideo wird dadurch nicht zuverlaessig blockiert.
+amazon-adsystem.com
+amazonadvertising.com
+ads.amazon.com
+advertising.amazon.com
+advertising.amazon.de
+ads-setu-proxy-eu.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+aviary.amazon.de
+aviary.amazon.com
+mads-eu.amazon.com
+mads.amazon.com
+mads-fe.amazon.com
+fls-eu.amazon.com
+fls-na.amazon.com
+fls-fe.amazon.com
+disneyadvertising.com
+analytics.disneyplus.com
+doubleclick.net
+googleadservices.com
+googlesyndication.com
