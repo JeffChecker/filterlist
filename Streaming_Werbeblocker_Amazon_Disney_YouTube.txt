@@ -20,6 +20,19 @@
 ||aviary.amazon.de^
 ||aviary.amazon.com^
 !
+! ===== Zusaetzliche Amazon Fire TV / Prime Tracking und Werbe Hosts =====
+! Abgleich mit Perflyst und HaGeZi. Testen: einzelne Sperren koennen Apps stoeren.
+! amazon-adsystem.com deckt aax-*, aax-ott und mads.amazon-adsystem.com bereits ab.
+||mads-eu.amazon.com^
+||mads.amazon.com^
+||mads-fe.amazon.com^
+||fls-eu.amazon.com^
+||fls-na.amazon.com^
+||fls-fe.amazon.com^
+||mobileanalytics.us-east-1.amazonaws.com^
+||device-metrics-us-2.amazon.com^
+! Keine App-, Update- oder Videostreaming-Hostnamen vorsorglich sperren.
+!
 ! ===== Disney+ =====
 ||disneyadvertising.com^
 ||analytics.disneyplus.com^
@@ -47,4 +60,7 @@
 ! https://github.com/AdguardTeam/AdGuardHome#known-limitations
 ! https://github.com/darthvader666uk/blocklists
 ! https://github.com/hagezi/dns-blocklists
+! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
+! https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+! Quelllisten sind nur Referenzen; URL Kommentare importieren keine Regeln.
 ! https://github.com/yuliskov/SmartTube
