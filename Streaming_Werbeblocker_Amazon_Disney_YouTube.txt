@@ -1,0 +1,50 @@
+[Adblock Plus]
+! Title: Streaming Werbefilter: Amazon Prime Video, Disney+, YouTube
+! Version: 2026-10-28
+! Format: AdGuard Home / AdGuard DNS / uBlock Origin kompatible Domainregeln
+! ACHTUNG: Diese Filter sind keine Garantie fuer werbefreie Videostreams.
+! Amazon Prime Video und Disney+ koennen Werbung serverseitig in Videos einfuegen.
+! YouTube Videowerbung kann nicht zuverlaessig per DNS blockiert werden.
+! Die Regeln blockieren vorwiegend Werbe-, Analyse- und Trackingdomains.
+! Keine Hauptdomains fuer Wiedergabe blockieren (z.B. youtube.com, googlevideo.com,
+! primevideo.com, disneyplus.com oder bamgrid.com).
+!
+! ===== Amazon Prime Video / Fire TV =====
+||amazon-adsystem.com^
+||amazonadvertising.com^
+||ads.amazon.com^
+||advertising.amazon.com^
+||advertising.amazon.de^
+||ads-setu-proxy-eu.amazon.com^
+||device-metrics-us.amazon.com^
+||aviary.amazon.de^
+||aviary.amazon.com^
+!
+! ===== Disney+ =====
+||disneyadvertising.com^
+||analytics.disneyplus.com^
+! Der nachfolgende AdGuard Home Regexfilter kann die Wiedergabe beeintraechtigen.
+! Falls Disney+ Probleme macht, diese Zeile entfernen.
+/^diproton-ads-[^.]+\.hulu\.com\.akadns\.net$/
+!
+! ===== YouTube / Google Werbenetzwerke =====
+! Blockiert Tracking und einige Werbeanfragen, NICHT verlaesslich YouTube Videoanzeigen.
+||doubleclick.net^
+||googleadservices.com^
+||googlesyndication.com^
+!
+! ===== Hinweise =====
+! Nutzung: In AdGuard Home unter Filter > DNS Sperrlisten eine lokale Liste importieren
+! oder die Regeln in benutzerdefinierte Filterregeln einfuegen.
+! uBlock Origin: Unter 'Meine Filter' einfuegen. Fuer YouTube Browserwerbung
+! zusaetzlich die standardmaessigen uBlock Filterlisten aktiviert lassen.
+! Falls Amazon Prime Video oder Disney+ nicht mehr abspielen:
+! 1. Diese Liste zeitweise deaktivieren.
+! 2. In den DNS Protokollen nach blockierten Wiedergabeservern suchen.
+! 3. Nur die stoerende Regel entfernen und erneut testen.
+!
+! Referenzen / technische Einschraenkungen (Stand 28.10.2026):
+! https://github.com/AdguardTeam/AdGuardHome#known-limitations
+! https://github.com/darthvader666uk/blocklists
+! https://github.com/hagezi/dns-blocklists
+! https://github.com/yuliskov/SmartTube
