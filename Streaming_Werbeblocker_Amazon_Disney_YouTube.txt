@@ -7,7 +7,7 @@
 # Nur Werbung/Tracking und allgemeine Risiken, kein Jugendschutz-/Social-/Shopping-Blocker.
 # DNS kann Prime Video-, Disney+- und YouTube-Videowerbung nicht sicher entfernen.
 # Lizenz: GPL-3.0. Ausnahmen und eigene Eintraege siehe Repository.
-# Domains: 117734
+# Domains: 117767
 #
 0-02.net
 0-btc.com
@@ -11334,6 +11334,7 @@ akqrh9-attr.appsflyersdk.com
 akqrh9-cdn-settings.appsflyersdk.com
 akqrh9-conversions.appsflyersdk.com
 akqrh9-launches.appsflyersdk.com
+akrgzialcvjxk.online
 akrxfobddpgzo.space
 aksb-a.akamaihd.net
 aksesin.top
@@ -23023,6 +23024,7 @@ blue-technology.pro
 blue.nbc4i.com
 blue99703.com
 blueaff.com
+bluebellwillow.com
 blueberrydanelarger.com
 bluebirdteam.com
 blueblackside.com
@@ -32928,6 +32930,7 @@ damdoor.com
 damedamehoy.xyz
 dameparts.com
 damericantpast.org
+damnerfussier.cfd
 dampdock.com
 dampedvisored.com
 dampesttroth.com
@@ -36707,6 +36710,7 @@ dwqc4k-inapps.appsflyersdk.com
 dwqc4k-launches.appsflyersdk.com
 dwqc4k-register.appsflyersdk.com
 dwr3zytn850g.cloudfront.net
+dwucjvpffbzla.space
 dwuupq.com
 dwvimvbajxnvc.online
 dwvohsgysgfrr.online
@@ -36870,6 +36874,7 @@ dzlawmilngfcp.space
 dzlhwcoblc.com
 dzloljaqszhbx.online
 dzmrbjehnpkah.site
+dzohppzeuqmqe.online
 dzpnheknnjwmdh.com
 dzpu6za66svjl.cloudfront.net
 dzpzankowdjpk.site
@@ -37752,6 +37757,7 @@ egaqgnwwapaqi.site
 egaxybiqeramc.space
 egayfnkxlzouj.site
 egbggijlkjwoo.space
+egbjheepsejdi.website
 egcqpvjtuvqk.com
 egctjciixiire.space
 egczoevqyffdo.site
@@ -41229,6 +41235,7 @@ fhsgntrgjtioc.online
 fhslwakwmubsi.space
 fhsy5atr.xyz
 fhtmpftopdrllm.com
+fhtuovdhdomcg.website
 fhu1vzay.xyz
 fhvfbuzvnrelp.space
 fhvfd.com
@@ -45646,6 +45653,7 @@ goingplatinum.com
 goingtabific.com
 goingup.com
 gojsmanager.com
+gojsvfahliydn.space
 gojunkclean.cn
 gokiekqieuued.online
 gold-bet-casino.fr
@@ -45986,6 +45994,7 @@ gqccz.thealexjonesstore.com
 gqcjylvpckpkh.website
 gqcnohiqfckoau.com
 gqcrgyufg.com
+gqcwymcixftnr.website
 gqdajtjwzbikn.space
 gqfck5gnwf88zjqq6pepmwvfg48.cfd
 gqfpqtbdok.com
@@ -50192,6 +50201,7 @@ ickaside.com
 ickersanthine.com
 ickewusvpzeje.online
 ickfinallyonly.com
+ickinuicbtgzj.online
 icko4e-cdn-settings.appsflyersdk.com
 icko4e-inapps.appsflyersdk.com
 icko4e-launches.appsflyersdk.com
@@ -50485,6 +50495,7 @@ ifx4u.com
 ifxijbhztrtvp.site
 ify.ac
 ifyltudcapmti.online
+ifymstrgliarl.website
 igadgetsworld.com
 igaifhilhbjmt.site
 igaming-service.io
@@ -52527,6 +52538,7 @@ ittrbkputssno.space
 itubglwvthjwop6qtukfjfbnw.cfd
 itv.hexun.com
 itvalleynews.com
+itwbnrjr.com
 itweepinbelltor.com
 itwiuqabxvxzu.site
 itxbyjztilkas.site
@@ -52692,6 +52704,7 @@ ixubgeuvxzgle.online
 ixyfhlybedovh.online
 iy.cxtkctckl2qzv2.cyou
 iy0keh7qj7.com
+iyaqjfxjxnogj.online
 iyavmv-gcdsdk.appsflyersdk.com
 iybordpmxdrno.online
 iybtgfvfrnhro.store
@@ -55358,6 +55371,7 @@ khuzibatekes.com
 khvliwvgpxzmk.site
 khxullxzecmah.website
 khyfmsnsisblx.website
+khzcaztszjtdk.space
 khzwnjoflcera.site
 ki4jkq-adrevenue.appsflyersdk.com
 ki4jkq-cdn-settings.appsflyersdk.com
@@ -58322,6 +58336,7 @@ llglounvtctsl.site
 llglxmzxsmcgo.space
 llhobralwmgcc.website
 llibero.it
+lliefkzyf.com
 lljdutrpfyuiw.online
 lljoetsjbpukj.online
 llktlhwchinzl.site
@@ -60201,6 +60216,7 @@ lwqwlxzzujoof.space
 lwrdkbniynlhr.online
 lwrmft.icu
 lwrnikzjpp.com
+lwsrzofawjcec.space
 lwsskdedoiwvp.website
 lwucmsmkumxsh.space
 lwuntajpwadku.online
@@ -60646,6 +60662,7 @@ magic-in-china.com
 magic-whatsapp.com
 magic.prism.gg
 magicadz.co
+magicalcocoa.com
 magicallypenitentiary.com
 magicalspinfr.fr
 magiccandles.eu
@@ -65859,6 +65876,7 @@ mgladthereisso.com
 mgm99win.casino
 mgmotorindiaprod.112.2o7.net
 mgnmjkwnaoanu.website
+mgoqifrqcwsma.space
 mgpl5pqg29.com
 mgpnz.shopakira.com
 mgqjtxagkvdun.website
@@ -71946,6 +71964,7 @@ omu0od-cdn-settings.appsflyersdk.com
 omu0od-inapps.appsflyersdk.com
 omu0od-launches.appsflyersdk.com
 omwvapmytccsc.online
+omwvtaafvqa.in
 omxpiremgszzv.space
 omynews.net
 omzal.com
@@ -72222,6 +72241,7 @@ oorha.blacks.co.uk
 oorxdvaldifpl.site
 oosbocswffckr.website
 oot59rxrwm.com
+ootunuuudwgtz.space
 oouezduuhcwhx.space
 oouutjpavsxfv.site
 oovnncozruz8bn9.mfwg1299ek6tjegle68fv.cyou
@@ -73190,6 +73210,7 @@ ovghljmcnxejx.online
 ovh.webshark.pl
 oviihhegivcrq.online
 ovilluscopoutshaving.qpon
+ovjetfnbnalmy.space
 ovklmkubddqmi.com
 ovnccdqzclehr.site
 ovngwowapygbl.site
@@ -76040,6 +76061,7 @@ pjcvnamenr.com
 pjdakfbstctpnb.com
 pjdjlrmelqxzh.site
 pjdpsycbcmdns.website
+pjdtddmmeidon.site
 pjfddwmshnaee.online
 pjgcmly83vqgc4p.cyou
 pjge.ch
@@ -76809,6 +76831,7 @@ pmc1201.com
 pmccdezkbkbpw.online
 pmd-vp-aka.canal-plus.com
 pmdxwtmaxpfos.space
+pmdzmdvbfiqep.website
 pmedtitpghzvz.site
 pmfahgvvqiyyz.online
 pmfmtnykkgpsa.website
@@ -77781,7 +77804,6 @@ premjoshua.com
 prendrefireman.cfd
 preoccupyray.com
 preokcriix.live
-preonesetro.com
 preparationsovertimesixteen.com
 preparecommands.com
 prepareplanes.com
@@ -79185,6 +79207,7 @@ pxud8t-inapps.appsflyersdk.com
 pxud8t-launches.appsflyersdk.com
 pxud8t-register.appsflyersdk.com
 pxvoyuez.com
+pxysstcowppcw.online
 py-ad-lgsmartad-com.aws-prd.net
 py7cnf-cdn-settings.appsflyersdk.com
 py7cnf-conversions.appsflyersdk.com
@@ -80830,6 +80853,7 @@ rac.hs.fi
 rac.is.fi
 rac.ruutu.fi
 racapocjfljkz.space
+racbhbkkzaqnb.site
 raccoon.alexanderssonlaw.com
 raccoon.jaronheard.com
 raceamen.com
@@ -83021,6 +83045,7 @@ robotrefinery.com
 robotreplay.com
 robspabah.com
 robust-sail.pro
+robustlamp.com
 robustpsychology.com
 robycasino-france.fr
 rochestercontemporary.org
@@ -89575,6 +89600,7 @@ slanderpeaceful.com
 slanohirigafn.site
 slapbutler.com
 slaqandsan.xyz
+slarthmordieu.cfd
 slashstar.net
 slatehystericaltaunt.com
 slaveguna.cfd
@@ -108366,6 +108392,7 @@ vpic.video.qq.com
 vpico.com
 vpipi.com
 vpivyf.meshki.com.au
+vpjontna.com
 vpjzefvydxeuz.site
 vpkxxhloef.w3iyciznevej29fuwncw7o.cyou
 vplayeranalytics.vidgyor.com
@@ -110633,6 +110660,7 @@ wiener-liebe.com
 wienerschumar.com
 wifjoqpnviwlr.site
 wifly.net
+wifnkoqwxlfoh.space
 wifytd4tlq.com
 wigapvofjar.com
 wigetmedia.com
@@ -115511,6 +115539,7 @@ yntaegulwgqur.site
 yntkpkwykfooj.site
 yntvrgqkwlwag.site
 ynulcrxpiawjj.site
+ynuxmerweqgwy.online
 ynvnf.laura-james.co.uk
 ynvtepiimtshs.store
 ynwibbkll.com
@@ -116383,6 +116412,7 @@ zborqhpkcjsao.site
 zbpedfvcsdchd.space
 zbqcovoprjruz.website
 zbqzsgtqyzmid.website
+zbrcymbcnqzth.site
 zbriwdxuvdzqu.website
 zbrtnv.icu
 zbrwvplgtllpt.space
@@ -116888,6 +116918,7 @@ zjmhdqesdcbfy.space
 zjmvozrbylwgg.com
 zjmwizpyxsreb.space
 zjngrcbnhamgb.site
+zjohvfvdcjiyg.site
 zjosweqiruoaz.website
 zjpmswrjggpxe.site
 zjptg.com
@@ -117356,6 +117387,7 @@ zshukagtdzstb.online
 zsi24utdu.com
 zsiezzoevasxb.space
 zsjxwj.com
+zskicwgujgkmy.space
 zsleznwqqjcjw.site
 zslzwwvjceiom.website
 zsm3uj-cdn-settings.appsflyersdk.com
@@ -117442,6 +117474,7 @@ ztsfxujjez.com
 ztsgftfoxqhqz.site
 ztsjdthngoeln.space
 ztsrv.com
+ztsxtkpewbsbh.space
 zttrpnhufhdxno.com
 zttsmufvcrvjw.space
 ztudfmvgxozex.space
